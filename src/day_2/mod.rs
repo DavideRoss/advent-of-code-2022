@@ -1,4 +1,4 @@
-use std::{fs, ops::Index};
+use std::fs;
 
 /*
 
